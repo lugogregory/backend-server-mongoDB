@@ -1,8 +1,5 @@
-var express = require('express');
 var SEED = require('../config/config').SEED;
 var jwt = require('jsonwebtoken');
-
-var app = express();
 
 
 // =============================================================
